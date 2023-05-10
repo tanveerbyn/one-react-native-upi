@@ -1,4 +1,4 @@
-  package com.onereactnativeupi;
+package com.onereactnativeupi;
 
 import android.app.Activity;
 
